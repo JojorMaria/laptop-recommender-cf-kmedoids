@@ -49,7 +49,6 @@ laptop-recommender-cf-kmedoids/
 │   ├── 01_kmedoids_clustering.ipynb
 │   └── 02_collaborative_filtering_evaluation.ipynb
 ├── data/
-├── requirements.txt
 └── README.md
 ```
 
