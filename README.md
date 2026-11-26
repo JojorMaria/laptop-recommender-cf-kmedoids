@@ -53,24 +53,10 @@ laptop-recommender-cf-kmedoids/
 └── README.md
 ```
 
-## How to Run
-
-```bash
-git clone https://github.com/jojormaria/laptop-recommender-cf-kmedoids.git
-cd laptop-recommender-cf-kmedoids
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Screenshots
 
 `[tambahkan screenshot halaman rekomendasi pengguna lama, input preferensi pengguna baru, dan halaman admin]`
-
-## Limitations and Future Work
-
-- Cold-start recommendations are not yet evaluated quantitatively.
-- All attributes carry equal weight in the distance calculation; attribute weighting could be explored.
-- Other clustering algorithms (K-Means, DBSCAN, hierarchical) could be compared.
 
 ## Author
 
