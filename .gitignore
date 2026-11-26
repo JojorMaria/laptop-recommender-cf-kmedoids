@@ -1,0 +1,4 @@
+data/amazon_laptop_reviews.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
